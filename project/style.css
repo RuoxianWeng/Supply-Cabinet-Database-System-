@@ -1,0 +1,121 @@
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.headericon {
+    height: 60px;
+    width: 260px;
+    margin: 10px auto 20px;
+}
+
+.icon {
+    height: 100%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+.pricetable {
+    height: 350px;
+    width: 300px;
+    margin: 40px auto;
+}
+
+.ordertable {
+    height: 70px;
+    width: 420px;
+    margin: 20px auto;
+}
+
+.shipmentinfo {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.form {
+    width: 150px;
+    margin: 0 auto;
+}
+
+.welcome {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+
+.homebutton {
+    width: 100px;
+    height: 30px;
+    margin-right: 50px;
+    margin-left: auto;
+}
+
+input[type="submit"] {
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: white;
+}
+
+.loginform {
+    width: 350px;
+    height: 175px;
+    margin: 60px auto 20px;
+    border: 1px solid black;
+}
+
+input[type="number"], input[type="text"] {
+    height: 20px;
+    border: 1px solid black;
+    margin: 5px 0;
+}
+
+.loginfield {
+    width: 150px;
+    margin: 20px auto 10px;
+}
+
+.schoolIDfield {
+    margin-bottom: 5px;
+}
+
+#loginbutton {
+    width: 45px;
+    margin: 0px 101px;
+}
+
+form {
+    width: 500px;
+    margin: 10px 535px;
+}
+
+p {
+    text-align: center;
+    margin: 50px 0 70px;
+}
+
+.orderstatement {
+    margin: 50px 0 0;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+h4 {
+    text-align: center;
+}
+
